@@ -39,15 +39,9 @@
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](./preview.png)
-
----
-
 ## 🌍 Live Demo
 
-🔗 https://your-username.github.io/portfolio-website/
+🔗 https://namrata-developer.github.io/namrata-portfolio/
 
 ---
 
